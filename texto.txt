@@ -1,2 +1,1 @@
-Documento de texto apra pruebas
-cambios realziados desde una rama nueva
+Cambiamos el texto para el examen
